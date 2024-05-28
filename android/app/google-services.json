@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58730508853",
+    "project_id": "mhtechin-635ac",
+    "storage_bucket": "mhtechin-635ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58730508853:android:7545595065708ac52ff77c",
+        "android_client_info": {
+          "package_name": "com.example.otp_verify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYL6_yL5zw1eTC9wEav2tMSZA9nBXclI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
